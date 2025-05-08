@@ -1,0 +1,27 @@
+body {
+    background-color: #f0ead2;
+}
+
+h1 {
+    color:#6c584c;
+    text-align: center;
+}
+
+h2 {
+    color:#6c584c;
+    text-align: center;
+}
+
+a {
+    text-align: center;
+    color: #a98467;
+}
+
+div {
+    width: 50%;
+    margin: 25%;
+}
+
+img {
+    border: 5px solid #adc178;
+}
